@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <img src="https://in.linkedin.com/pub/dir/Mohd/Abbas%E2%98%81/in-0-India" alt="">
+        <tr>Mohd Ali Abbas</tr>
+        <tbody>
+        <th>+91 8299288287, <a href="https://github.com/mohdaliabbas">Github</a></th>
+        <th>jhvhj</th>
+        <table border="2px solid red" display="flex" justify-content="center">
+            <tr>
+                <th>Btech <hr> <span>70%</span></th>
+                <th>10 <hr><span>76%</span></th>
+                <th>12 <hr><span>78%</span></th>
+            </tr>
+        </table>
+        <!-- <tr></tr> -->
+        <!-- <th><td><th>
+            <td>h</td>
+            <td>e</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr></td> -->
+    </tr>
+    <th>Major</th>
+    <tr><td>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, doloremque minus quos perferendis mollitia quidem possimus enim illum sunt blanditiis eaque, voluptate, eum optio! Id quaerat incidunt iusto. Nihil, reiciendis.
+    Earum, commodi explicabo? Reprehenderit error quam atque iure, assumenda libero deleniti tempore, exercitationem, perspiciatis odit minus dicta fugit dignissimos optio. Quaerat, modi ipsa quisquam impedit ex odit quas non odio.
+    Ut, a non? Praesentium fugit ea incidunt quo error quasi quae atque voluptates, velit mollitia corporis beatae quia minima, animi, rem soluta? Ipsam pariatur atque at. Voluptatem, et unde! Necessitatibus.
+    Dolores incidunt, similique beatae architecto libero ipsum expedita doloremque quia fuga vero quae blanditiis iure sint ullam illo explicabo, molestiae necessitatibus debitis possimus nemo ab velit cupiditate. Reiciendis, temporibus dolorum!</td></tr>
+    </tbody>
+    <!-- <thead>MOHD ALI ABBAS</thead>
+    <tbody>
+    <tr>
+        <td>+91 8299288287</td>
+        <td><a href="https://www.linkedin.com/in/mohd-ali-abbas-8b9655180/">Linkedin</a></td>
+        <td><a href="https://github.com/mohdaliabbas">Github</a></td>
+    
+    </tr>
+    <th>PROJECTS</th>
+    <tr>
+        <h1>MAJOR</h1>
+    <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos earum debitis ipsam, in dolorum pariatur, soluta ratione nulla quidem quaerat illo temporibus voluptatem fuga! Et eaque ab ipsam blanditiis neque?*40</td>
+    </tr>
+    <tr>
+    <- <tr><p>hdsbckjsdbkjcbsdkj</p></tr>/tr> -->
+<!-- </tbody> -->
+<!-- <hr> --> 
+    <!-- <tr> -->
+        <!-- <th>projects <hr></th><hr> -->
+        <!-- <hr> -->
+
+    <!-- <td>-------------------</td>
+     -->
+     <!-- <hr> -->
+    <!-- </tr> -->
+     <!-- <th></th> -->
+
+</table>
+</body>
+</html>
